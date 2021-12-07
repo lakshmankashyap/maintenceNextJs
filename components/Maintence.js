@@ -1,6 +1,15 @@
 const Maintenance = () => {
   return (
     <>
+      <head>
+        <title>Den Domains</title>
+        <meta
+          name="viewport"
+          content="width=device-width,minimum-scale=1,initial-scale=1"
+          className="next-head"
+        />
+        <link rel="shortcut icon" href="/favicon.ico" />
+      </head>
       <body>
         <div id="wrapper">
           <div>
